@@ -1,0 +1,5 @@
+[data-block-release="condition@0.1.0"] [data-condition-node-card] { width: 100%; min-width: 0; }
+[data-block-release="condition@0.1.0"] [data-condition-node-card] h3 { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+[data-block-release="condition@0.1.0"] [data-condition-node-card] .node-data-preview { overflow-wrap: anywhere; }
+[data-block-release="condition@0.1.0"] [data-condition-node-card] .cond-card-first { font-family: ui-monospace, monospace; }
+[data-block-release="condition@0.1.0"] [data-condition-node-card] .cond-card-invalid { color: var(--danger, #b42318); }
